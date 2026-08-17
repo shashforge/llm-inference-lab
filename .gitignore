@@ -1,0 +1,12 @@
+# models and caches
+*.gguf
+*.safetensors
+.cache/
+
+# python
+__pycache__/
+.venv/
+*.pyc
+
+# os
+.DS_Store
